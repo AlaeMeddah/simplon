@@ -1,6 +1,6 @@
 # Disclaimer
 This is an update on the work made by "madzadev" in the case of a brief project for Simplon.
-Yon can check his work here: "https://github.com/madzadev/weather-app.git"
+Yon can check his work here: https://github.com/madzadev/weather-app.git
 
 # Suject
 https://drive.google.com/file/d/13uQ9lLfP8HWoLANv2FIjWwy5hNOQsdz_/view
@@ -21,5 +21,6 @@ Check the current weather on any city on the planet. Switch between metric and i
 
 1. `git clone https://github.com/AlaeMeddah/simplon.git`
 2. `cd my weather`
+3. Use your favorite text editor to modify `config/config.json`
 3. `npm install`
 4. `npm run dev`

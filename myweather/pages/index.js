@@ -12,7 +12,7 @@ import { ErrorScreen } from "../components/ErrorScreen";
 
 import styles from "../styles/Home.module.css";
 
-import config from "./config.json"; // path relative to your component
+import config from "../config/config.json"; // path relative to your component
 
 export const App = () => {
   const [cityInput, setCityInput] = useState(config.cityInput);
